@@ -1,2 +1,0 @@
-# flyvpn.github.io
-flyvpn
